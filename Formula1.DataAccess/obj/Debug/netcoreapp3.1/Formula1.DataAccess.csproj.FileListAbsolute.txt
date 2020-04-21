@@ -1,0 +1,15 @@
+C:\Users\asus\RiderProjects\Formula1\Formula1.DataAccess\bin\Debug\netcoreapp3.1\Formula1.DataAccess.deps.json
+C:\Users\asus\RiderProjects\Formula1\Formula1.DataAccess\bin\Debug\netcoreapp3.1\Formula1.DataAccess.runtimeconfig.json
+C:\Users\asus\RiderProjects\Formula1\Formula1.DataAccess\bin\Debug\netcoreapp3.1\Formula1.DataAccess.runtimeconfig.dev.json
+C:\Users\asus\RiderProjects\Formula1\Formula1.DataAccess\bin\Debug\netcoreapp3.1\Formula1.DataAccess.dll
+C:\Users\asus\RiderProjects\Formula1\Formula1.DataAccess\bin\Debug\netcoreapp3.1\Formula1.DataAccess.pdb
+C:\Users\asus\RiderProjects\Formula1\Formula1.DataAccess\bin\Debug\netcoreapp3.1\Formula1.Domain.dll
+C:\Users\asus\RiderProjects\Formula1\Formula1.DataAccess\bin\Debug\netcoreapp3.1\Formula1.Domain.pdb
+C:\Users\asus\RiderProjects\Formula1\Formula1.DataAccess\obj\Debug\netcoreapp3.1\Formula1.DataAccess.csprojAssemblyReference.cache
+C:\Users\asus\RiderProjects\Formula1\Formula1.DataAccess\obj\Debug\netcoreapp3.1\Formula1.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\asus\RiderProjects\Formula1\Formula1.DataAccess\obj\Debug\netcoreapp3.1\Formula1.DataAccess.AssemblyInfoInputs.cache
+C:\Users\asus\RiderProjects\Formula1\Formula1.DataAccess\obj\Debug\netcoreapp3.1\Formula1.DataAccess.AssemblyInfo.cs
+C:\Users\asus\RiderProjects\Formula1\Formula1.DataAccess\obj\Debug\netcoreapp3.1\Formula1.DataAccess.csproj.CopyComplete
+C:\Users\asus\RiderProjects\Formula1\Formula1.DataAccess\obj\Debug\netcoreapp3.1\Formula1.DataAccess.dll
+C:\Users\asus\RiderProjects\Formula1\Formula1.DataAccess\obj\Debug\netcoreapp3.1\Formula1.DataAccess.pdb
+C:\Users\asus\RiderProjects\Formula1\Formula1.DataAccess\obj\Debug\netcoreapp3.1\Formula1.DataAccess.genruntimeconfig.cache

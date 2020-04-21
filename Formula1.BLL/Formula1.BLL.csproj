@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Formula1.DataAccess\Formula1.DataAccess.csproj" />
+      <ProjectReference Include="..\Formula1.Domain\Formula1.Domain.csproj" />
+    </ItemGroup>
+
+</Project>

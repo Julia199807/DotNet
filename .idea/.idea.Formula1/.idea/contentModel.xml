@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\asus\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\asus\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Formula1.-403685771.00" t="ExcludeRecursive" />
+    <e p="C:\Users\asus\RiderProjects\Formula1" t="IncludeFlat">
+      <e p="Formula1.BLL" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Contracts" t="Include">
+          <e p="IF1TeamCreateService.cs" t="Include" />
+          <e p="IF1TeamGetService.cs" t="Include" />
+          <e p="IF1TeamUpdateService.cs" t="Include" />
+          <e p="IRiderCreateService.cs" t="Include" />
+          <e p="IRiderGetService.cs" t="Include" />
+          <e p="IRiderUpdateService.cs" t="Include" />
+        </e>
+        <e p="Formula1.BLL.csproj" t="IncludeRecursive" />
+        <e p="Implementation" t="Include">
+          <e p="F1TeamCreateService.cs" t="Include" />
+          <e p="F1TeamGetService.cs" t="Include" />
+          <e p="F1TeamUpdateService.cs" t="Include" />
+          <e p="RiderCreateService.cs" t="Include" />
+          <e p="RiderGetService.cs" t="Include" />
+          <e p="RiderUpdateService.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Formula1.BLL.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Formula1.BLL.Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="F1TeamGetServiceTests.cs" t="Include" />
+        <e p="Formula1.BLL.Tests.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Formula1.BLL.Tests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="RiderCreateServiceTests.cs" t="Include" />
+        <e p="RiderGetServiceTests.cs" t="Include" />
+        <e p="RiderUpdateServiceTests.cs" t="Include" />
+      </e>
+      <e p="Formula1.Client" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DTO" t="Include">
+          <e p="Read" t="Include">
+            <e p="F1TeamDTO.cs" t="Include" />
+            <e p="RiderDTO.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Formula1.Client.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Formula1.Client.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Requests" t="Include">
+          <e p="Create" t="Include">
+            <e p="F1TeamCreateDTO.cs" t="Include" />
+            <e p="RiderCreateDTO.cs" t="Include" />
+          </e>
+          <e p="Update" t="Include">
+            <e p="F1TeamUpdateDTO.cs" t="Include" />
+            <e p="RiderUpdateDTO.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Formula1.DataAccess" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Context" t="Include">
+          <e p="F1TeamContext.cs" t="Include" />
+        </e>
+        <e p="Contracts" t="Include">
+          <e p="IF1TeamDataAccess.cs" t="Include" />
+          <e p="IRiderDataAccess.cs" t="Include" />
+        </e>
+        <e p="Entities" t="Include">
+          <e p="F1Team.cs" t="Include" />
+          <e p="Rider.cs" t="Include" />
+        </e>
+        <e p="Formula1.DataAccess.csproj" t="IncludeRecursive" />
+        <e p="Implementations" t="Include">
+          <e p="F1TeamDataAccess.cs" t="Include" />
+          <e p="RiderDataAccess.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Formula1.DataAccess.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Formula1.Domain" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Contracts" t="Include">
+          <e p="IF1TeamContainer.cs" t="Include" />
+          <e p="IF1TeamIdentity.cs" t="Include" />
+          <e p="IRiderContainer.cs" t="Include" />
+          <e p="IRiderIdentity.cs" t="Include" />
+        </e>
+        <e p="F1Team.cs" t="Include" />
+        <e p="Formula1.Domain.csproj" t="IncludeRecursive" />
+        <e p="Models" t="Include">
+          <e p="F1TeamIdentityModel.cs" t="Include" />
+          <e p="F1TeamUpdateModel.cs" t="Include" />
+          <e p="RiderIdentityModel.cs" t="Include" />
+          <e p="RiderUpdateModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Formula1.Domain.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Rider.cs" t="Include" />
+      </e>
+      <e p="Formula1.sln" t="IncludeFlat" />
+      <e p="Formula1.WebAPI" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="AutoMapperProfile.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="F1TeamController.cs" t="Include" />
+          <e p="RiderController.cs" t="Include" />
+        </e>
+        <e p="Formula1.WebAPI.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Formula1.WebAPI.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

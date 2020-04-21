@@ -1,0 +1,14 @@
+C:\Users\asus\RiderProjects\Formula1\Formula1.BLL\bin\Debug\netcoreapp3.1\Formula1.BLL.deps.json
+C:\Users\asus\RiderProjects\Formula1\Formula1.BLL\bin\Debug\netcoreapp3.1\Formula1.BLL.dll
+C:\Users\asus\RiderProjects\Formula1\Formula1.BLL\bin\Debug\netcoreapp3.1\Formula1.BLL.pdb
+C:\Users\asus\RiderProjects\Formula1\Formula1.BLL\bin\Debug\netcoreapp3.1\Formula1.DataAccess.dll
+C:\Users\asus\RiderProjects\Formula1\Formula1.BLL\bin\Debug\netcoreapp3.1\Formula1.Domain.dll
+C:\Users\asus\RiderProjects\Formula1\Formula1.BLL\bin\Debug\netcoreapp3.1\Formula1.DataAccess.pdb
+C:\Users\asus\RiderProjects\Formula1\Formula1.BLL\bin\Debug\netcoreapp3.1\Formula1.Domain.pdb
+C:\Users\asus\RiderProjects\Formula1\Formula1.BLL\obj\Debug\netcoreapp3.1\Formula1.BLL.csprojAssemblyReference.cache
+C:\Users\asus\RiderProjects\Formula1\Formula1.BLL\obj\Debug\netcoreapp3.1\Formula1.BLL.csproj.CoreCompileInputs.cache
+C:\Users\asus\RiderProjects\Formula1\Formula1.BLL\obj\Debug\netcoreapp3.1\Formula1.BLL.AssemblyInfoInputs.cache
+C:\Users\asus\RiderProjects\Formula1\Formula1.BLL\obj\Debug\netcoreapp3.1\Formula1.BLL.AssemblyInfo.cs
+C:\Users\asus\RiderProjects\Formula1\Formula1.BLL\obj\Debug\netcoreapp3.1\Formula1.BLL.csproj.CopyComplete
+C:\Users\asus\RiderProjects\Formula1\Formula1.BLL\obj\Debug\netcoreapp3.1\Formula1.BLL.dll
+C:\Users\asus\RiderProjects\Formula1\Formula1.BLL\obj\Debug\netcoreapp3.1\Formula1.BLL.pdb

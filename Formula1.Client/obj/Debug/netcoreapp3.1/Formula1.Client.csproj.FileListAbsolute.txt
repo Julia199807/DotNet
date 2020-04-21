@@ -1,0 +1,9 @@
+C:\Users\asus\RiderProjects\Formula1\Formula1.Client\bin\Debug\netcoreapp3.1\Formula1.Client.deps.json
+C:\Users\asus\RiderProjects\Formula1\Formula1.Client\bin\Debug\netcoreapp3.1\Formula1.Client.dll
+C:\Users\asus\RiderProjects\Formula1\Formula1.Client\bin\Debug\netcoreapp3.1\Formula1.Client.pdb
+C:\Users\asus\RiderProjects\Formula1\Formula1.Client\obj\Debug\netcoreapp3.1\Formula1.Client.csprojAssemblyReference.cache
+C:\Users\asus\RiderProjects\Formula1\Formula1.Client\obj\Debug\netcoreapp3.1\Formula1.Client.csproj.CoreCompileInputs.cache
+C:\Users\asus\RiderProjects\Formula1\Formula1.Client\obj\Debug\netcoreapp3.1\Formula1.Client.AssemblyInfoInputs.cache
+C:\Users\asus\RiderProjects\Formula1\Formula1.Client\obj\Debug\netcoreapp3.1\Formula1.Client.AssemblyInfo.cs
+C:\Users\asus\RiderProjects\Formula1\Formula1.Client\obj\Debug\netcoreapp3.1\Formula1.Client.dll
+C:\Users\asus\RiderProjects\Formula1\Formula1.Client\obj\Debug\netcoreapp3.1\Formula1.Client.pdb
